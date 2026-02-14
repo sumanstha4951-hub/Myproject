@@ -21,9 +21,6 @@ It is designed to practice front-end development and basic web design.
 1. Download or clone the repository
 2. Open `index.html` in any web browser
 
-## 📸 Screenshot
-(Add project screenshot here)
-
 ## 👤 Author
 **Suman Shrestha**
 
